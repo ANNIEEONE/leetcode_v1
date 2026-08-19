@@ -1,6 +1,29 @@
 # leetcode_v1
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
+  <h1>🚀 LeetCode Solutions & Algorithm Practice</h1>
+  <p>A personal collection of algorithmic challenges and data structure solutions.</p>
+  
+  <!-- Replace 'your_leetcode_username' with your actual username below to show a live stats card -->
+  <img src="https://leetcard.jacoblin.cool/ANNIEONE?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+</div>
 
+---
+
+## 👨‍💻 About This Repository
+This workspace contains my solutions to various LeetCode problems, automatically synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). The goal of this repository is to track my problem-solving progress and maintain a reference of optimized algorithms. 
+
+## 🛠️ Tech Stack & Workflow
+* **Primary Language:** Python
+* **Environment:** Linux Terminal
+* **Execution:** Scripts and test cases are generally designed to be run directly from the command line, often utilizing `sys.argv` for quick local testing with custom arguments.
+
+## 💻 How to Run Locally
+If you want to test any of these solutions on your local machine, you can execute them via the terminal:
+
+```bash
+# Example execution passing command-line arguments
+python 0003-longest-substring.py <custom_string_argument>
+'''
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
