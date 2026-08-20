@@ -56,6 +56,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0005-longest-palindromic-substring](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +94,12 @@ python 0003-longest-substring.py <custom_string_argument>
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
