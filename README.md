@@ -59,6 +59,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0020-valid-parentheses](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
