@@ -84,8 +84,13 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0014-longest-common-prefix](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
