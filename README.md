@@ -51,6 +51,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0013-roman-to-integer](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0290-word-pattern](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,4 +137,8 @@ python 0003-longest-substring.py <custom_string_argument>
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
