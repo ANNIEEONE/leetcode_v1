@@ -65,6 +65,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0242-valid-anagram](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
