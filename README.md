@@ -80,6 +80,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -107,6 +108,7 @@ python 0003-longest-substring.py <custom_string_argument>
 | [0027-remove-element](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@ python 0003-longest-substring.py <custom_string_argument>
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ANNIEEONE/leetcode_v1/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
